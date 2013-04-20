@@ -2,7 +2,11 @@
 /.classpath
 /.project
 /.settings
+
+# IntelliJ
 /.idea
+*.iml
+/out
 
 # netbeans
 /nbproject
