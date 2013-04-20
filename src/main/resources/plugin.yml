@@ -1,0 +1,13 @@
+name: MathPlugin
+main: com.harryeakins.mathplugin.MathPlugin
+version: ${version}
+commands:
+  earn:
+    description: Get a question to earn money
+    usage: /earn
+  answer:
+    description: Answer question
+    usage: /ans 52
+  coins:
+    description: Get current coins
+    usage: /coins

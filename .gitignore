@@ -1,0 +1,18 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+/.idea
+
+# netbeans
+/nbproject
+
+# maven
+/target
+
+# ant
+/bin
+/dist
+
+# vim
+.*.sw[a-p]
